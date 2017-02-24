@@ -9,4 +9,4 @@ Credit: "Global Map of Tristan da Cunha © ISCGM/The Administrator, Tristan da C
 
 Contact: The Administrator, Tristan da Cunha.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/tristan.png)
+E-mail: ![email](email.png)
